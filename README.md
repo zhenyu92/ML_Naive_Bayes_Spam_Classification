@@ -38,7 +38,7 @@ Spam (0: Not Spam, 1: Spam)
       3.2 Data Cleaning
     4 Train Test Split
     5 Select and Train a Model
-      5.1 5.1 Naive Bayes Model
+      5.1 Naive Bayes Model
     6 Apply Model on Test Set
     ```   
 
